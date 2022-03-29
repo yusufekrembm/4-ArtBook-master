@@ -1,4 +1,4 @@
-# Android Projects Course Materials
+# Android Projects Course 
 
 - Simple Gallery Book for your artbooks.
 
