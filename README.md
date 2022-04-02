@@ -1,5 +1,6 @@
-# Android Projects Course 
-
+# Android Projects Udemy Course 
+ 
+- This project was made by cloning from the udemy java kotlin course.
 - Simple Gallery Book for your artbooks.
 
 <img src="https://user-images.githubusercontent.com/88238748/160485804-74052fd5-a5ad-4cbd-b535-026daf602981.png" alt="artbooksave" style="width:300px;"/>
